@@ -19,6 +19,8 @@ float whatPercentage() {
 int main(void) {
     printf("%d is %.2f%% of %d\n", a, whatPercentage(), b);
     printf("\n");
+        
+    printf("Hello NeoVim");
 
     a = 30;
     b = 80;
