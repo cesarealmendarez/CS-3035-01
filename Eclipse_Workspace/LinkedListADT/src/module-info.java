@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author owner
+ *
+ */
+module LinkedListADT {
+}

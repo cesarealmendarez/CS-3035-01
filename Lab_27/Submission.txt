@@ -1,0 +1,7 @@
+--- Code ---
+
+Functions with explicit declarations
+
+--- Output ---
+
+Functions with implicit declarations
